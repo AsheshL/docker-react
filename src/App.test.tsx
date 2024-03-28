@@ -1,6 +1,7 @@
 import { expect, test } from 'vitest';
 
 function sum(a: number, b: number) {
+  // run tests with push
   return a + b;
 }
 
